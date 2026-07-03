@@ -6,6 +6,7 @@ void main() {
 
         IO.println("i = " + i);
         //hola emilio
+        //ala que loco tio
         System.out.println("momilio es gay, y lo amo, uwuuwuwuwu");
     }
 }
